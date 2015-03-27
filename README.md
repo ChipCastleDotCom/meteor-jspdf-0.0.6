@@ -2,9 +2,7 @@
 
 A meteor package for [jsPDF](http://jspdf.com).
 
-Original library was converted for use with [Meteor](http://meteor.com) by
-[Chip Castle Dot Com, Inc.](http://chipcastle.com).
-
+Original library was converted for use with [Meteor](http://meteor.com) by [Chip Castle Dot Com, Inc.](http://chipcastle.com).
 
 ## Installation
 
@@ -12,15 +10,11 @@ Original library was converted for use with [Meteor](http://meteor.com) by
 
 ## Documentation
 
-Since this is only a wrapper package, please see the
-[documentation at jsPDF](http://jspdf.com) for details on how to
-API usage.
+Since this is only a wrapper package, please see the [documentation at jsPDF](http://jspdf.com) for details on how to API usage.
 
 ## Credits
 
-Big thanks for to [James Hall](https://github.com/MrRio) for
-providing [MrRio/jsPDF](https://github.com/MrRio/jsPDF) as an Open
-Source package from which this package was created.
+Big thanks for to [James Hall](https://github.com/MrRio) for providing [MrRio/jsPDF](https://github.com/MrRio/jsPDF) as an Open Source package from which this package was created.
 
 ## License
 
