@@ -6,7 +6,7 @@ Original library was converted for use with [Meteor](http://meteor.com) by [Chip
 
 ## Installation
 
-    meteor add chipcastledotcom:jspdf
+    meteor add chipcastledotcom:meteor-jspdf
 
 ## Documentation
 
