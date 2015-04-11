@@ -1,3 +1,9 @@
+THIS PACKAGE IS NO LONGER BEING MAINTAINED.
+
+PLEASE USE
+[chipcastledotcom:jspdf](https://atmospherejs.com/chipcastledotcom/jspdf)
+INSTEAD.
+
 # meteor-jspdf
 
 A meteor package for [jsPDF](http://jspdf.com).
