@@ -1,8 +1,6 @@
-THIS PACKAGE IS NO LONGER BEING MAINTAINED.
+**THIS PACKAGE IS NO LONGER BEING MAINTAINED.**
 
-PLEASE USE
-[chipcastledotcom:jspdf](https://atmospherejs.com/chipcastledotcom/jspdf)
-INSTEAD.
+**PLEASE USE [chipcastledotcom:jspdf](https://atmospherejs.com/chipcastledotcom/jspdf) INSTEAD.**
 
 # meteor-jspdf
 

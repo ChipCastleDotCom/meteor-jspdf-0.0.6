@@ -1,6 +1,6 @@
 Package.describe({
   name: 'chipcastledotcom:meteor-jspdf',
-  version: '0.0.7',
+  version: '0.0.8',
   // Brief, one-line summary of the package.
   summary: 'Meteor package for wrapping jsPDF',
   // URL to the Git repository containing the source code for this package.
@@ -12,5 +12,5 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0.5');
-  api.addFiles('jsPDF/dist/jspdf.debug.js', 'client');
+  api.use('chipcastledotcom:jspdf', 'client');
 });
