@@ -12,5 +12,5 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0.5');
-  api.use('chipcastledotcom:jspdf', 'client');
+  api.use('chipcastledotcom:jspdf@0.0.2', 'client');
 });
