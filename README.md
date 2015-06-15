@@ -1,6 +1,6 @@
-**THIS PACKAGE IS NO LONGER BEING MAINTAINED.**
+**THIS PACKAGE IS DEPRECATED AND NO LONGER BEING MAINTAINED.**
 
-**PLEASE USE [chipcastledotcom:jspdf](https://atmospherejs.com/chipcastledotcom/jspdf) INSTEAD.**
+**PLEASE USE [jspdf:core](https://atmospherejs.com/jspdf/core) INSTEAD.**
 
 # meteor-jspdf
 
@@ -10,7 +10,7 @@ Original library was converted for use with [Meteor](http://meteor.com) by [Chip
 
 ## Installation
 
-    meteor add chipcastledotcom:meteor-jspdf
+    meteor add jspdf:core
 
 ## Documentation
 
